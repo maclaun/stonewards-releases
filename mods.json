@@ -11,7 +11,7 @@
     },
     {
       "name": "StoneWardsHD",
-      "version": "1.4.0",
+      "version": "1.5.0",
       "author": "de7ault & Alan",
       "description": "HD graphics, SMAA/TAA anti-aliasing, and anisotropic texture filtering for StoneWards (Unity 6).",
       "isCore": false,
