@@ -1,22 +1,22 @@
 {
   "mods": [
     {
-      "name": "StoneWardsITGCore",
-      "version": "1.3.4",
+      "name": "ITGCore",
+      "version": "1.4.0",
       "author": "ITG Studio",
       "description": "Mandatory ITG Core System Mod. Manages all in-game ESC mod settings.",
       "isCore": true,
-      "fileName": "StoneWardsITGCore.dll",
-      "downloadUrl": "https://raw.githubusercontent.com/maclaun/stonewards-releases/main/releases/StoneWardsITGCore.dll"
+      "fileName": "ITGCore.dll",
+      "downloadUrl": "https://raw.githubusercontent.com/maclaun/stonewards-releases/main/releases/ITGCore.dll"
     },
     {
-      "name": "StoneWardsHD",
-      "version": "1.6.1",
+      "name": "ITGStoneWardsHD",
+      "version": "1.7.0",
       "author": "de7ault",
-      "description": "HD graphics, SMAA/TAA anti-aliasing, and anisotropic texture filtering for StoneWards (Unity 6).",
+      "description": "HD graphics, SMAA/TAA anti-aliasing, anisotropic texture filtering & HD UI Icons for StoneWards (Unity 6).",
       "isCore": false,
-      "fileName": "StoneWardsHD.dll",
-      "downloadUrl": "https://raw.githubusercontent.com/maclaun/stonewards-releases/main/releases/StoneWardsHD.dll"
+      "fileName": "ITGStoneWardsHD.dll",
+      "downloadUrl": "https://raw.githubusercontent.com/maclaun/stonewards-releases/main/releases/ITGStoneWardsHD.dll"
     }
   ]
 }
