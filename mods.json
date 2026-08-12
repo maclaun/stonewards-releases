@@ -17,6 +17,15 @@
       "isCore": false,
       "fileName": "ITGStoneWardsHD.dll",
       "downloadUrl": "https://raw.githubusercontent.com/maclaun/stonewards-releases/main/releases/ITGStoneWardsHD.dll"
+    },
+    {
+      "name": "ITGBetterLobby",
+      "version": "0.0.1",
+      "author": "de7ault & Alan Kertanov",
+      "description": "ITG Better Lobby Mod - Walkable platform on water",
+      "isCore": false,
+      "fileName": "ITGBetterLobby.dll",
+      "downloadUrl": "https://raw.githubusercontent.com/maclaun/stonewards-releases/main/releases/ITGBetterLobby.dll"
     }
   ]
 }
