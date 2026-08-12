@@ -2,7 +2,7 @@
   "mods": [
     {
       "name": "StoneWardsITGCore",
-      "version": "1.3.0",
+      "version": "1.3.1",
       "author": "ITG Studio",
       "description": "Mandatory ITG Core System Mod. Manages all in-game ESC mod settings.",
       "isCore": true,
@@ -11,7 +11,7 @@
     },
     {
       "name": "StoneWardsHD",
-      "version": "1.6.0",
+      "version": "1.6.1",
       "author": "de7ault",
       "description": "HD graphics, SMAA/TAA anti-aliasing, and anisotropic texture filtering for StoneWards (Unity 6).",
       "isCore": false,
