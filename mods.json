@@ -1,0 +1,31 @@
+{
+  "mods": [
+    {
+      "name": "StoneWardsITGCore",
+      "version": "1.2.0",
+      "author": "StoneWards Team",
+      "description": "Mandatory ITG Core System Mod. Manages all in-game ESC mod settings.",
+      "isCore": true,
+      "fileName": "StoneWardsITGCore.dll",
+      "downloadUrl": "https://raw.githubusercontent.com/maclaun/stonewards-releases/main/releases/StoneWardsITGCore.dll"
+    },
+    {
+      "name": "StoneWardsHD",
+      "version": "1.4.0",
+      "author": "de7ault & Alan",
+      "description": "HD graphics, SMAA/TAA anti-aliasing, and anisotropic texture filtering for StoneWards (Unity 6).",
+      "isCore": false,
+      "fileName": "StoneWardsHD.dll",
+      "downloadUrl": "https://raw.githubusercontent.com/maclaun/stonewards-releases/main/releases/StoneWardsHD.dll"
+    },
+    {
+      "name": "StoneWardsBetterInfo",
+      "version": "1.5.0",
+      "author": "Alan Kertanov",
+      "description": "Enhanced in-game stats and player info mod by Alan Kertanov.",
+      "isCore": false,
+      "fileName": "StoneWardsBetterInfo.dll",
+      "downloadUrl": "https://raw.githubusercontent.com/maclaun/stonewards-releases/main/releases/StoneWardsBetterInfo.dll"
+    }
+  ]
+}
