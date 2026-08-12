@@ -17,15 +17,6 @@
       "isCore": false,
       "fileName": "StoneWardsHD.dll",
       "downloadUrl": "https://raw.githubusercontent.com/maclaun/stonewards-releases/main/releases/StoneWardsHD.dll"
-    },
-    {
-      "name": "StoneWardsBetterInfo",
-      "version": "1.5.0",
-      "author": "Alan Kertanov",
-      "description": "Enhanced in-game stats and player info mod by Alan Kertanov.",
-      "isCore": false,
-      "fileName": "StoneWardsBetterInfo.dll",
-      "downloadUrl": "https://raw.githubusercontent.com/maclaun/stonewards-releases/main/releases/StoneWardsBetterInfo.dll"
     }
   ]
 }
