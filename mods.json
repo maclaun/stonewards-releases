@@ -11,7 +11,7 @@
     },
     {
       "name": "ITGStoneWardsHD",
-      "version": "1.7.0",
+      "version": "1.7.1",
       "author": "de7ault",
       "description": "HD graphics, SMAA/TAA anti-aliasing, anisotropic texture filtering & HD UI Icons for StoneWards (Unity 6).",
       "isCore": false,
