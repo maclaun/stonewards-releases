@@ -17,15 +17,6 @@
       "isCore": false,
       "fileName": "StoneWardsHD.dll",
       "downloadUrl": "https://raw.githubusercontent.com/maclaun/stonewards-releases/main/releases/StoneWardsHD.dll"
-    },
-    {
-      "name": "StoneWardsBetterLobby",
-      "version": "0.0.1",
-      "author": "de7ault & Alan Kertanov",
-      "description": "Better Lobby Mod - Walkable platform on water",
-      "isCore": false,
-      "fileName": "StoneWardsBetterLobby.dll",
-      "downloadUrl": "https://raw.githubusercontent.com/maclaun/stonewards-releases/main/releases/StoneWardsBetterLobby.dll"
     }
   ]
 }
