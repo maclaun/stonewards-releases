@@ -2,7 +2,7 @@
   "mods": [
     {
       "name": "ITGCore",
-      "version": "1.4.0",
+      "version": "1.4.1",
       "author": "ITG Studio",
       "description": "Mandatory ITG Core System Mod. Manages all in-game ESC mod settings.",
       "isCore": true,
@@ -11,7 +11,7 @@
     },
     {
       "name": "ITGStoneWardsHD",
-      "version": "1.7.2",
+      "version": "1.7.3",
       "author": "de7ault",
       "description": "HD graphics, SMAA/TAA anti-aliasing, anisotropic texture filtering & HD UI Icons for StoneWards (Unity 6).",
       "isCore": false,
@@ -20,7 +20,7 @@
     },
     {
       "name": "ITGBetterLobby",
-      "version": "0.0.5",
+      "version": "0.0.6",
       "author": "de7ault & Alan Kertanov",
       "description": "ITG Better Lobby Mod - Walkable platform on water",
       "isCore": false,
